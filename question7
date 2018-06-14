@@ -1,0 +1,9 @@
+    dict={
+    'A':101,
+    'B':102,
+    'C':103
+}
+
+for key in dict.keys():
+  print(key,dict[key])
+
